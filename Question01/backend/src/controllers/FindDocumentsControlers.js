@@ -5,7 +5,7 @@ module.exports = {
 
     async findDocument(request, response){
 
-        const folderDirectory = '/Users/gusta/Downloads'
+        const folderDirectory = '/Users/Bruno/Desktop'
 
         try {
             if (fs.existsSync(folderDirectory)) {
