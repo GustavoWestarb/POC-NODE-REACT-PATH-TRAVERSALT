@@ -1,7 +1,7 @@
 # POC-NODE-REACT-PATH-TRAVERSALT
 Lista de Exercícios 04 da matéria de Desenvolvimento de Sistemas Seguros
 
-Foram criados dois projetos contendo end-points para consulta de arquivos em determinado diretório e download de um arquivo.
+Foram criados dois projetos contendo end-points para consulta de arquivos em determinado diretório (neste caso 'Users/Bruno/Desktop') e download de um arquivo.
 O primeiro projeto mostra uma lista de arquivos em uma pasta e conta com um campo onde o usuário informa um desses arquivos e realiza o download.
 
 #### Front-end com input para download e listagem de arquivos disponíveis para download.
